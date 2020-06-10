@@ -1,6 +1,6 @@
 ## 介绍
 
-项目地址-https://github.com/Dstarjohn/django/tree/master/lx_blog-Master
+项目地址-https://github.com/Dstarjohn/blog-for-django/tree/master/lx_blog-Master
 
 lx_blog-Master
 是一款基于Django的极简主义个人博客
