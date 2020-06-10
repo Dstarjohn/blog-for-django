@@ -1,15 +1,12 @@
-﻿# shadow_blog
-
 ## 介绍
 
-项目地址-https://github.com/zhaoyangkun/shadow_blog
+项目地址-https://github.com/Dstarjohn/django/tree/master/lx_blog-Master
 
-shadow_blog是一款基于Django的极简主义个人博客，已应用在[苍茫误此生博客](https://www.cangmangai.cn/)
+lx_blog-Master
+是一款基于Django的极简主义个人博客
 
-前端基于[Boundless-UI](https://github.com/zhaoyangkun/Boundless-UI)，风格简约。支持响应式布局，
+前端基于[Boundless-UI]，风格简约。支持响应式布局，
 已适配主流的安卓和苹果设备。
-
-后台功能不是很丰富，后期如果有时间会做功能的完善和补充。
 
 ## 前端功能
 
@@ -86,20 +83,7 @@ DEFAULT_FROM_EMAIL = EMAIL_HOST_USER
 8. 用刚刚注册的用户登录，登录之后在首页将鼠标移到右上方的用户名可以看到后台管理，进入即可。或者在登录之后手动
 输入127.0.0.1:8000/admin进入后台管理。
 
-## 部分功能截图
-![ntKCmd.png](https://s2.ax1x.com/2019/09/09/ntKCmd.png)
-
-![ntKS6e.png](https://s2.ax1x.com/2019/09/09/ntKS6e.png)
-
-![ntuzlD.png](https://s2.ax1x.com/2019/09/09/ntuzlD.png)
-
-![ntuxSO.png](https://s2.ax1x.com/2019/09/09/ntuxSO.png)
-
-![ntujfK.png](https://s2.ax1x.com/2019/09/09/ntujfK.png)
-
-![ntKP0A.png](https://s2.ax1x.com/2019/09/09/ntKP0A.png)
-
-![ntKpOH.png](https://s2.ax1x.com/2019/09/09/ntKpOH.png)
+)
 
 ## 架构
 基于Django + Jquery + Vditor + django-rest-framework + H-ui + Boundless-UI
@@ -110,5 +94,4 @@ DEFAULT_FROM_EMAIL = EMAIL_HOST_USER
 [Jquery](https://github.com/jquery/jquery)
 [Vditor](https://github.com/b3log/vditor)
 [Django restframework](https://github.com/encode/django-rest-framework)
-[Boundless-UI](https://github.com/zhaoyangkun/Boundless-UI)
 [H-ui](https://github.com/jackying/H-ui.admin)
